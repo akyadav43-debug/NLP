@@ -1,3 +1,0 @@
-hello world  this is my first file handling proogramthis is append operationthis is append operationthis is append operationthis is append operation
-this is append operation
-this is append operationthis is append operationthis is append operation
